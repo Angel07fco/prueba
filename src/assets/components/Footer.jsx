@@ -1,3 +1,10 @@
-function Footer() {}
-
-export default Footer;
+// src/components/Footer.jsx
+function Footer() {
+    return (
+      <footer>
+        <p>© 2024 - All rights reserved</p>
+      </footer>
+    );
+  }
+  
+  export default Footer;
